@@ -73,6 +73,8 @@ NS_ASSUME_NONNULL_BEGIN
             return @"MasterCard";
         case STPCardBrandVisa:
             return @"Visa";
+        case STPCardBrandTugrug:
+            return @"Tugrug";
         case STPCardBrandUnknown:
             return @"Unknown";
     }

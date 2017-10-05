@@ -32,6 +32,7 @@
         NSArray *ranges = @[
                             // Catch-all values
                             @[@"", @"", @16, @(STPCardBrandUnknown)],
+                            @[@"9496", @"", @16, @(STPCardBrandTugrug)],
                             @[@"34", @"34", @15, @(STPCardBrandAmex)],
                             @[@"37", @"37", @15, @(STPCardBrandAmex)],
                             @[@"30", @"30", @14, @(STPCardBrandDinersClub)],
