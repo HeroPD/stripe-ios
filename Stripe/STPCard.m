@@ -54,6 +54,10 @@ NS_ASSUME_NONNULL_BEGIN
         return STPCardBrandJCB;
     } else if ([brand isEqualToString:@"diners club"]) {
         return STPCardBrandDinersClub;
+    } else if ([brand isEqualToString:@"tugrug"]) {
+        return STPCardBrandTugrug;
+    } else if ([brand isEqualToString:@"union pay"]) {
+        return STPCardBrandUnionPay;
     } else {
         return STPCardBrandUnknown;
     }
@@ -73,6 +77,8 @@ NS_ASSUME_NONNULL_BEGIN
             return @"MasterCard";
         case STPCardBrandVisa:
             return @"Visa";
+        case STPCardBrandUnionPay:
+            return @"Union Pay";
         case STPCardBrandTugrug:
             return @"Tugrug";
         case STPCardBrandUnknown:

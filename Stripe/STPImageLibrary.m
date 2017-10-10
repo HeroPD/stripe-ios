@@ -140,6 +140,9 @@
             case STPCardBrandVisa:
             imageName = shouldUseTemplate ? @"stp_card_visa_template" : @"stp_card_visa";
             break;
+            case STPCardBrandUnionPay:
+            imageName = shouldUseTemplate ? @"stp_card_unionpay_template" : @"stp_card_unionpay";
+            break;
             case STPCardBrandTugrug:
             imageName = shouldUseTemplate ? @"stp_card_tugrug_template" : @"stp_card_tugrug";
             break;

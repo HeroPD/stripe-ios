@@ -555,6 +555,12 @@
 		C1FEE5961CBFF11400A7632B /* STPPostalCodeValidator.h in Headers */ = {isa = PBXBuildFile; fileRef = C1FEE5941CBFF11400A7632B /* STPPostalCodeValidator.h */; };
 		C1FEE5971CBFF11400A7632B /* STPPostalCodeValidator.m in Sources */ = {isa = PBXBuildFile; fileRef = C1FEE5951CBFF11400A7632B /* STPPostalCodeValidator.m */; };
 		C1FEE5991CBFF24000A7632B /* STPPostalCodeValidatorTest.m in Sources */ = {isa = PBXBuildFile; fileRef = C1FEE5981CBFF24000A7632B /* STPPostalCodeValidatorTest.m */; };
+		C31AC8A01F8C70B4002DE19C /* stp_card_unionpay_template.png in Resources */ = {isa = PBXBuildFile; fileRef = C31AC89A1F8C70B4002DE19C /* stp_card_unionpay_template.png */; };
+		C31AC8A11F8C70B4002DE19C /* stp_card_unionpay_template@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C31AC89B1F8C70B4002DE19C /* stp_card_unionpay_template@2x.png */; };
+		C31AC8A21F8C70B4002DE19C /* stp_card_unionpay_template@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C31AC89C1F8C70B4002DE19C /* stp_card_unionpay_template@3x.png */; };
+		C31AC8A31F8C70B4002DE19C /* stp_card_unionpay.png in Resources */ = {isa = PBXBuildFile; fileRef = C31AC89D1F8C70B4002DE19C /* stp_card_unionpay.png */; };
+		C31AC8A41F8C70B4002DE19C /* stp_card_unionpay@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C31AC89E1F8C70B4002DE19C /* stp_card_unionpay@2x.png */; };
+		C31AC8A51F8C70B4002DE19C /* stp_card_unionpay@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C31AC89F1F8C70B4002DE19C /* stp_card_unionpay@3x.png */; };
 		C3B0B01A1F86230300F518B8 /* stp_card_tugrug_template.png in Resources */ = {isa = PBXBuildFile; fileRef = C3B0B0141F86230300F518B8 /* stp_card_tugrug_template.png */; };
 		C3B0B01B1F86230300F518B8 /* stp_card_tugrug_template@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C3B0B0151F86230300F518B8 /* stp_card_tugrug_template@2x.png */; };
 		C3B0B01C1F86230300F518B8 /* stp_card_tugrug_template@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C3B0B0161F86230300F518B8 /* stp_card_tugrug_template@3x.png */; };
@@ -1110,6 +1116,12 @@
 		C1FEE5941CBFF11400A7632B /* STPPostalCodeValidator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STPPostalCodeValidator.h; sourceTree = "<group>"; };
 		C1FEE5951CBFF11400A7632B /* STPPostalCodeValidator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STPPostalCodeValidator.m; sourceTree = "<group>"; };
 		C1FEE5981CBFF24000A7632B /* STPPostalCodeValidatorTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STPPostalCodeValidatorTest.m; sourceTree = "<group>"; };
+		C31AC89A1F8C70B4002DE19C /* stp_card_unionpay_template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stp_card_unionpay_template.png; sourceTree = "<group>"; };
+		C31AC89B1F8C70B4002DE19C /* stp_card_unionpay_template@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stp_card_unionpay_template@2x.png"; sourceTree = "<group>"; };
+		C31AC89C1F8C70B4002DE19C /* stp_card_unionpay_template@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stp_card_unionpay_template@3x.png"; sourceTree = "<group>"; };
+		C31AC89D1F8C70B4002DE19C /* stp_card_unionpay.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stp_card_unionpay.png; sourceTree = "<group>"; };
+		C31AC89E1F8C70B4002DE19C /* stp_card_unionpay@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stp_card_unionpay@2x.png"; sourceTree = "<group>"; };
+		C31AC89F1F8C70B4002DE19C /* stp_card_unionpay@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stp_card_unionpay@3x.png"; sourceTree = "<group>"; };
 		C3B0B0141F86230300F518B8 /* stp_card_tugrug_template.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stp_card_tugrug_template.png; sourceTree = "<group>"; };
 		C3B0B0151F86230300F518B8 /* stp_card_tugrug_template@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stp_card_tugrug_template@2x.png"; sourceTree = "<group>"; };
 		C3B0B0161F86230300F518B8 /* stp_card_tugrug_template@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "stp_card_tugrug_template@3x.png"; sourceTree = "<group>"; };
@@ -1267,6 +1279,12 @@
 		0438EF881B741C2800D506CC /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				C31AC89A1F8C70B4002DE19C /* stp_card_unionpay_template.png */,
+				C31AC89B1F8C70B4002DE19C /* stp_card_unionpay_template@2x.png */,
+				C31AC89C1F8C70B4002DE19C /* stp_card_unionpay_template@3x.png */,
+				C31AC89D1F8C70B4002DE19C /* stp_card_unionpay.png */,
+				C31AC89E1F8C70B4002DE19C /* stp_card_unionpay@2x.png */,
+				C31AC89F1F8C70B4002DE19C /* stp_card_unionpay@3x.png */,
 				C1363BAC1D76337400EB82B4 /* stp_icon_checkmark.png */,
 				C1363BAD1D76337400EB82B4 /* stp_icon_checkmark@2x.png */,
 				C1363BAE1D76337400EB82B4 /* stp_icon_checkmark@3x.png */,
@@ -2426,6 +2444,7 @@
 				0438EFC61B741C2800D506CC /* stp_card_jcb@3x.png in Resources */,
 				0438EFC21B741C2800D506CC /* stp_card_jcb.png in Resources */,
 				F1C578F11D651AB200912EAE /* stp_card_applepay.png in Resources */,
+				C31AC8A11F8C70B4002DE19C /* stp_card_unionpay_template@2x.png in Resources */,
 				C1300D211EB8D38A0080AF7B /* stp_card_unknown@2x.png in Resources */,
 				C1300D2D1EB8D3AB0080AF7B /* stp_card_error@2x.png in Resources */,
 				F1510BC21D5A8146000731AD /* stp_card_jcb_template@2x.png in Resources */,
@@ -2459,6 +2478,7 @@
 				049A3FA61CC8071100F57DE7 /* stp_card_applepay@2x.png in Resources */,
 				0438EFB61B741C2800D506CC /* stp_card_diners.png in Resources */,
 				F1510B0F1D5A4C93000731AD /* stp_card_amex_template@3x.png in Resources */,
+				C31AC8A01F8C70B4002DE19C /* stp_card_unionpay_template.png in Resources */,
 				049A3FA71CC8071100F57DE7 /* stp_card_applepay@3x.png in Resources */,
 				C1300D2A1EB8D3AB0080AF7B /* stp_card_error_amex@2x.png in Resources */,
 				0438EFAE1B741C2800D506CC /* stp_card_cvc@3x.png in Resources */,
@@ -2471,9 +2491,11 @@
 				0438EFC01B741C2800D506CC /* stp_card_discover@3x.png in Resources */,
 				C1300D2E1EB8D3AB0080AF7B /* stp_card_error@3x.png in Resources */,
 				F148ABE81D5E805A0014FD92 /* Localizable.strings in Resources */,
+				C31AC8A51F8C70B4002DE19C /* stp_card_unionpay@3x.png in Resources */,
 				0438EFB41B741C2800D506CC /* stp_card_cvc_amex@3x.png in Resources */,
 				C1300D2C1EB8D3AB0080AF7B /* stp_card_error.png in Resources */,
 				0438EFB81B741C2800D506CC /* stp_card_diners@2x.png in Resources */,
+				C31AC8A41F8C70B4002DE19C /* stp_card_unionpay@2x.png in Resources */,
 				C11810C31CC7DA290022FB55 /* stp_card_form_front@3x.png in Resources */,
 				F1510B191D5A4C93000731AD /* stp_card_discover_template@2x.png in Resources */,
 				F1510BAA1D5A77F6000731AD /* stp_card_diners_template@2x.png in Resources */,
@@ -2487,6 +2509,8 @@
 				F1510B0B1D5A4C93000731AD /* stp_card_amex_template.png in Resources */,
 				0438EFCA1B741C2800D506CC /* stp_card_mastercard@2x.png in Resources */,
 				049A3F9F1CC8006800F57DE7 /* stp_icon_add.png in Resources */,
+				C31AC8A21F8C70B4002DE19C /* stp_card_unionpay_template@3x.png in Resources */,
+				C31AC8A31F8C70B4002DE19C /* stp_card_unionpay.png in Resources */,
 				C1300D291EB8D3AB0080AF7B /* stp_card_error_amex.png in Resources */,
 				C1363BB01D76337400EB82B4 /* stp_icon_checkmark@2x.png in Resources */,
 				C1300D201EB8D38A0080AF7B /* stp_card_unknown.png in Resources */,
